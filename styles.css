@@ -1,0 +1,187 @@
+body{
+    background-color: lightgrey;
+}
+
+.Encabezado{
+    
+    margin-top: -20px;
+    margin-left: -10px;
+    height: 100px;
+    width: 110%;
+    display: block;
+    background: white;
+}
+
+.Encabezado h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 400px;
+    float: inline-start;
+    justify-content: center;
+    
+}
+
+/*Primer Post*/
+.PrimerPost{
+    background: white;
+    margin: 0;
+    padding-left: 10px;
+    left: 400px;
+    height: 430px;
+    width: 600px;
+    position: relative;
+}
+
+.PrimerPosttitulo{
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.PrimerPosttitulo span{
+    font-style: normal;
+    color: lightgray;
+    position: absolute;
+    right: 1px;
+}
+
+.imagen1 img{
+    
+    position: absolute;
+    display: block;
+    left: 0px;
+    width: 610px;
+    height: 300px;
+}
+
+.texto1{
+    position: absolute;
+    bottom: 18px;
+    color: black;
+}
+    
+/*Segundo Post*/ 
+
+.SegundoPost{
+    
+    background: white;
+    margin: 0;
+    padding-left: 10px;
+    left: 400px;
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+
+.SegundoPosttitulo{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.SegundoPosttitulo span{
+    font-style: normal;
+    color: lightgray;
+    position: absolute;
+    right: 1px;
+
+}
+
+.imagen2 img{
+    position: absolute;
+    display: block;
+    left: 0px;
+    width: 610px;
+    height: 500px;
+}
+
+.texto2{
+    position: absolute;
+    bottom: 18px;
+    color: black;
+}
+
+/*Tercer Post*/
+
+.TercerPost{
+    background: white;
+    margin: 0;
+    padding-left: 10px;
+    left: 400px;
+    height: 430px;
+    width: 600px;
+    position: relative;
+}
+
+.TercerPosttitulo{
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.TercerPosttitulo span{
+    font-style: normal;
+    color: lightgray;
+    position: absolute;
+    right: 1px;
+}
+
+.imagen3 img{
+    
+    position: absolute;
+    display: block;
+    left: 0px;
+    width: 610px;
+    height: 300px;
+}
+
+.texto3{
+    position: absolute;
+    bottom: 18px;
+    color: black;
+}  
+
+/*Cuarto Post*/
+
+.CuartoPost{
+    
+    background: white;
+    margin: 0;
+    padding-left: 10px;
+    left: 400px;
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+
+.CuartoPosttitulo{
+  
+    left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+.CuartoPosttitulo span{
+    font-style: normal;
+    color: lightgray;
+    position: absolute;
+    right: 1px;
+
+}
+
+.imagen4 img{
+    background-color: rgb(254, 240, 240);
+    position: absolute;
+    display: block;
+    top:55px;
+    left: 0px;
+    width: 610px;
+    height: 400px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+   
+    
+}
+
+.texto4{
+
+
+    padding-left: px;
+    position: absolute;
+    bottom: 18px;
+    color: black;
+}
